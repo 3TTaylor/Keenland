@@ -1,5 +1,3 @@
-# Keeneland
-
 ## Keeneland from the Sky
 ### An Aerial Look at Lexington’s Premier Racecourse
 
@@ -12,7 +10,6 @@ This snapshot highlights the **Keeneland Association**, a historic thoroughbred 
 
 ---
 
-**Created by:** Tristan  
-**Tools Used:** OpenStreetMap, ArcGIS Pro, Blender  
-**Data Sources:** OpenStreetMap, Custom ArcGIS layers  
-**Purpose:** To visualize and communicate the unique layout and importance of this iconic area through geospatial and 3D design tools.
+**Created by:** Tristan Taylor   
+**Tools Used & Data Sources:** OpenStreetMap, ArcGIS Pro, Blender, Custom ArcGIS layers  
+**Purpose:** To visualize and a unique layout and importance of this iconic area
