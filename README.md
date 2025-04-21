@@ -1,7 +1,7 @@
 # Keeneland
 
-## Keeneland Association: A Unique View of Lexington, KY
-### Where This Area Is Located
+## Keeneland from the Sky
+### An Aerial Look at Lexington’s Premier Racecourse
 
 This snapshot highlights the **Keeneland Association**, a historic thoroughbred racecourse located in **Lexington, Kentucky**. Known for its elegant grounds and deep ties to horse racing, this area is a cultural and economic landmark in central Kentucky.
 
